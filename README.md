@@ -7,10 +7,10 @@
  - Confidence scores for prediction
 
 # Technology used
--Pytorch
--OpenCv
--ResNet(for face detection)
--Matplotlib
+- Pytorch
+- OpenCv
+- ResNet(for face detection)
+- Matplotlib
 
 # Notes
 - FER2013 is a noisy dataset so expect some misclassifcations
@@ -20,6 +20,7 @@
 # Example of Usage
 
 https://github.com/user-attachments/assets/a445fba7-2462-4a9a-819f-d0301385af51
+
 
 
 

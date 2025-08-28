@@ -14,12 +14,13 @@
 
 # Notes
 - FER2013 is a noisy dataset so expect some misclassifcations
-- The Dataset includes angry, surpirse, happy, sad, fear, neutral, disgust as emotions so the model will only detect those emotions.
+- The dataset includes angry, surpirse, happy, sad, fear, neutral, disgust as emotions so the model will only detect those emotions.
 
 
 # Example of Usage
 
 https://github.com/user-attachments/assets/a445fba7-2462-4a9a-819f-d0301385af51
+
 
 
 
